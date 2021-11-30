@@ -13,6 +13,12 @@ Gradiva bodo izdelana v Jupyter Notebook formatu in na voljo v tem repozitoriju 
 
 Za določene teme obdelane na krožku (namestitev programske opreme, dodatna programska oprema) bodo na voljo navodila (včasih tudi slikovna), ki jih lahko najdete v mapi [99_Navodila](./99_Navodila).
 
+## Tekmovanje ACM iz računalništva in informatike
+
+O tekmovanju si lahko preberete na povezavi [Tekmovanje ACM iz računalništva in informatike](http://rtk.ijs.si/).
+
+Naloge in rešitve prejšnjih tekmovanj so na voljo na povezavi [Prejšnja srednješolska računalniška tekmovanja](http://rtk.ijs.si/prejsnja.html)
+
 ## Dodatna literatura
 
 Dodatno literaturo (v angleščini) lahko najdene na spodnjih povezavah:
