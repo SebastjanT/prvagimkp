@@ -26,3 +26,8 @@ Dodatno literaturo (v angleščini) lahko najdene na spodnjih povezavah:
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3),
 * [BeginnersGuide/NonProgrammers - Python Wiki](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers),
 * [Getting started with... Python - Stack Overflow Blog](https://stackoverflow.blog/2021/07/14/getting-started-with-python/)
+
+## Python Cheatsheet
+
+Spletni portal kjer lahko najdete reference za začetnike tako kot napredne razvijalce:
+* [Python Cheatsheet - Python Cheatsheet](https://www.pythoncheatsheet.org/)
