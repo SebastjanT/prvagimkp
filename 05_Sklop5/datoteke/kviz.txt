@@ -1,0 +1,54 @@
+vprasanje Kateri način oblikovanja je proporočen za uporabo v Python?
+A Interpolacija
+B Metoda format
+C Operator %
+D Funckija print()
+pravilni_odgovor 65
+vprasanje S katero metodo dodamo element v množico?
+A add
+B append
+C insert
+D pop
+pravilni_odgovor 65
+vprasanje Kateri podatkovni tip vrne funkcija input()?
+A int
+B list
+C float
+D str
+pravilni_odgovor 68 
+vprasanje Kaj bi izpisal naslednji ukaz: print(True or 0 and not [])?
+A False
+B True
+C Nič
+D True or 0 and not []
+pravilni_odgovor 66
+vprasanje Kaj pomeni kratica LAN?
+A Least Allowed Network
+B Local Area Network
+C Little Arial Network
+D Large Area Network
+pravilni_odgovor 66
+vprasanje Ali je 2-stopenjska avtetikacija zapravljanje časa?
+A Ne
+B Da
+C Da
+D Da
+pravilni_odgovor 65
+vprasanje Na koliko sklopov je razdeljen krožek programiranja?
+A 20
+B 5
+C 10
+D 3
+pravilni_odgovor 66
+vprasanje Ali se datoteka, ki jo odpremo v Python funkciji samodejno zapre?
+A Včasih
+B Mogoče
+C Ne
+D Da
+pravilni_odgovor 68
+vprasanje Kaj pomeni način odprtja datoteke "a"?
+A Pisanje
+B Ustvarjanje
+C Dodajanje
+D Branje
+pravilni_odgovor 67
