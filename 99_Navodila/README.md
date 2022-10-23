@@ -4,7 +4,7 @@
 
 ### Windows
 
-[Navodila](./Navodila_Python_Win.pdf) za namestitev Python-3.10.8 so na voljo v pdf obliki in vsebujejo celotni postopek namestitve.
+[Navodila](./navodila_python_win.pdf) za namestitev Python-3.10.8 so na voljo v pdf obliki in vsebujejo celotni postopek namestitve.
 
 ### Linux
 
