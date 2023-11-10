@@ -1,10 +1,10 @@
 # Navodila
 
-## Python-3.10.8
+## Python-3.12.0
 
 ### Windows
 
-[Navodila](./navodila_python_win.pdf) za namestitev Python-3.10.8 so na voljo v pdf obliki in vsebujejo celotni postopek namestitve.
+[Navodila](./navodila_python_win.pdf) za namestitev Python-3.12.0 so na voljo v pdf obliki in vsebujejo celotni postopek namestitve.
 
 ### Linux
 
@@ -56,4 +56,4 @@ V teh okoljih so voljo orodja za pisanje, zagon in razhroščevanje vse na enem 
 
 ## GIT - Nadzor različic
 
-Pri programiranju je ključnega pomena nadzor različic. Hitri opis si lahko preberete na povezavi https://git-scm.com/book/sl/v2/Pri%C4%8Detek-O-nadzoru-razli%C4%8Dic.
+Pri programiranju je ključnega pomena nadzor različic. Hitri opis si lahko preberete na povezavi https://git-scm.com/book/sl/v2/Za%C4%8Detek-O-nadzoru-razli%C4%8Dic.
